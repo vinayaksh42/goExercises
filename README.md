@@ -1,2 +1,2 @@
 # goExercises
-GoLang Exercises
+This repo consists of all the mini projects related to GOLANG
